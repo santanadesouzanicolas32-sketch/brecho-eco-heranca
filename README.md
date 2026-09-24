@@ -28,16 +28,10 @@
 ## 📁 Estrutura
 
 ```
-├── assets
-├── assets/ns-logo.svg
-├── css
-├── css/features.css
-├── css/main.css
+├── assets/
+├── css/
 ├── index.html
-├── js
-├── js/cart.js
-├── js/data.js
-├── js/main.js
+├── js/
 ```
 
 ## 🚀 Como rodar localmente
