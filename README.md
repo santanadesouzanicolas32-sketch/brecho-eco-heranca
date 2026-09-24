@@ -3,7 +3,7 @@
 <p align="center">Loja de moda vintage sustentável com carrinho funcional (Dark UI)</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/trabalho-nicolau/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/brecho-eco-heranca/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -37,8 +37,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/trabalho-nicolau.git
-cd trabalho-nicolau
+git clone https://github.com/santanadesouzanicolas32-sketch/brecho-eco-heranca.git
+cd brecho-eco-heranca
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
